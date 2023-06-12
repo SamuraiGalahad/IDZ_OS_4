@@ -1,0 +1,7 @@
+gcc "for 4-5/server.c" -o "for 4-5/server"
+gcc "for 4-5/client.c" -o "for 4-5/client"
+gcc "for 4-5/seller_client.c" -o "for 4-5/seller_client"
+gcc "for 6-7/server.c" -o "for 6-7/server"
+gcc "for 6-7/client.c" -o "for 6-7/client"
+gcc "for 6-7/seller_client.c" -o "for 6-7/seller_client"
+gcc "for 6-7/listener.c" -o "for 6-7/listener"
